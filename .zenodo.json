@@ -1,0 +1,21 @@
+{
+  "title": "Artificial Flowers for Pollinator Monitoring",
+  "upload_type": "dataset",
+  "description": "3D-printable artificial flower designs for automated, camera-based pollinator monitoring, developed during a PhD at Cranfield University. Includes generalist, bee-specialist, and butterfly-specialist designs tested in field and butterfly house experiments.",
+  "creators": [
+    {
+      "name": "Ash, Abra",
+      "affiliation": "Cranfield University",
+      "orcid": "[0000-0000-0000-0000]"
+    }
+  ],
+  "keywords": [
+    "artificial flowers",
+    "pollinator monitoring",
+    "3D printing",
+    "camera trap",
+    "STL",
+    "pollinators",
+    "insects"
+  ]
+}
