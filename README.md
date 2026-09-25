@@ -15,9 +15,15 @@ This chapter tested one artificial flower design against traditional monitoring 
 
 Ash, A., Hallett, S., Carvell, C., Williams, L., & August, T. (2026). Testing the efficacy of artificial flowers as a novel attractant for automated pollinator monitoring. Journal of Pollination Ecology, 41, 137–153. https://doi.org/10.26786/1920-7603(2026)893
 
+Radially symmetrical, five-petalled, bowl-shaped flower with a stem, based on a
+buttercup (*Ranunculus* spp.). Painted UV-fluorescent yellow, white, and blue
+with a UV-nonreactive green stem.
+
 | File | Description |
 |---|---|
-| `Buttercup_Artificial_Flower.stl` | Radially symmetrical,5-petaled bowl-shaped flower with a stem. Based on a buttercup (*Ranunculus* spp.). Painted UV-fluorescent yellow, white, and blue with a UV-nonreactive green stem.|
+| `Buttercup_Artificial_Flower.stl` | Original file used in the study, resized in ChituBox at print time. Opens at an arbitrary scale, so resize before printing. |
+| `Buttercup_Artificial_Flower_30mm.stl` | Pre-scaled to 30 mm diameter, as printed in the study. |
+| `Buttercup_Artificial_Flower_50mm.stl` | Pre-scaled to 50 mm diameter, as printed in the study. |
 
 ### `Chapter_4/`
 **Multimodal Attraction Cues in Artificial Flowers Affect Insect Pollinator Visits**
@@ -26,7 +32,7 @@ This chapter tested the effect of multimodal attraction cues in a 2³ factorial 
 
 | File | Description |
 |---|---|
-| `6_petal_RS_flower.stl` | Radially symmetrical,6-petaled bowl-shaped flower with a nectary hole in the centre. Painted UV-fluorescent yellow, white, blue, and purple with a UV-nonreactive yellow centre, and broken line, radiating nectar guides (originally painted in this chapter with thin Sharpie but would recommend paint instead)|
+| `6_petal_RS_flower.stl` | Radially symmetrical, six-petaled, bowl-shaped flower with a nectary hole in the centre. Painted UV-fluorescent yellow, white, blue, and purple with a UV-nonreactive yellow centre, and broken line, radiating nectar guides (originally painted in this chapter with thin Sharpie but would recommend paint instead)|
 
 ### `Chapter_5/`
 **Evaluating Specialist Artificial Flowers for Targeted Bee and Butterfly Monitoring**
@@ -38,7 +44,7 @@ Continues the progression of design from Chapters 3 and 4. 5-petaled, radially s
 
 | File | Description |
 |---|---|
-| `Generalist.stl` | 5-petaled, radially symmetrical flower with a nectary hole in the centre. Painted UV-fluorescent yellow, white, and blue with a UV-nonreactive yellow centre, and brown broken line, radiating nectar guides |
+| `Generalist.stl` | 5-petaled, radially symmetrical flower with a nectary hole in the centre. Painted UV-fluorescent yellow, white, and blue with a UV-nonreactive yellow centre, and brown broken, radiating nectar guides |
 
 #### `Bee_Specialist/`
 Designed around bee preferences for blue, violet and yellow colouration, nectar guides,
@@ -73,12 +79,19 @@ isopropyl alcohol, UV-cured, and supports removed by hand.
 A resin printer is recommended for fine features such as stamens. Printing can
 also be outsourced to a print service or local makerspace.
 
+Print settings will vary by printer and resin, so use the settings that work
+best for your set-up.
+
 ## Painting and scent delivery
 
 Flowers were primed white, spray-painted, detailed by hand, and sealed with a
 varnish containing no UV blocker. Nectary holes are sized for cotton wicks
 that deliver scented water from a reservoir beneath the flower. Full paint
-products, scents, and set-up details are given in the relevant chapter or paper.
+products, scents, and set-up details are given in the relevant chapter or paper. 
+
+Feel free to paint as you see fit. The colour schemes described in the file
+tables are those tested in the studies, so use these if you want results
+comparable to the published findings.
 
 ## Citation
 
