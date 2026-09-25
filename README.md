@@ -2,7 +2,7 @@
 
 3D-printable artificial flower designs developed for automated, camera-based
 pollinator monitoring, as part of the PhD ***Designing Artificial Flowers for Automated Pollinator Monitoring***
-at Cranfield University.
+at Cranfield University. New flower models and improved versions of the current designs will be added in future releases. 
 
 ## Files
 
