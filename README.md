@@ -97,8 +97,8 @@ comparable to the published findings.
 
 If you use these designs, please cite:
 
-Ash, A. (2026). Artificial Flowers for Pollinator Monitoring (v1.0.0).
-Zenodo. https://doi.org/[DOI to add after release]
+Ash, A. (2026). Artificial Flowers for Pollinator Monitoring (v1.0.1).
+Zenodo. https://doi.org/10.5281/zenodo.22967042
 
 ## Licence
 
